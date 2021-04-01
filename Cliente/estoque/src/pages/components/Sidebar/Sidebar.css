@@ -1,0 +1,17 @@
+.sidebar_bg {
+
+    width:  16%;
+    height: 100%;
+    background-color: #000066;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.titulo {
+    color: '#fff';
+    text-align: center;
+}
